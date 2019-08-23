@@ -1,0 +1,22 @@
+{
+  "name": "nbodysim",
+  "version": "1.0.0",
+  "description": "Simulate the N-Body Problem",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takuma-3/nBodySim.git"
+  },
+  "keywords": [
+    "nbody"
+  ],
+  "author": "Takuma-3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takuma-3/nBodySim/issues"
+  },
+  "homepage": "https://github.com/takuma-3/nBodySim#readme"
+}

@@ -1,0 +1,11 @@
+
+{
+  "simSettings":
+    {
+      "simTime" : 1E10,
+      "timeIncrement" : 0.05,
+      "numberOfBodies" : 27,
+      "nBodyDataUrl" : "./nBody27",
+      "indexOfCenter" : 14
+    }
+}
